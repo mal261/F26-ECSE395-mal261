@@ -1,4 +1,3 @@
-# Junior Engineering Design Seminar
 # Lab 2: ESP32 blinking LED
 ## Submitted by Martin Lopez
 
