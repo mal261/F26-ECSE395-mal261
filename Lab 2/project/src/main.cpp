@@ -10,10 +10,10 @@ void setup() {
 }
 
 void loop() {
-  // TODO: Define your text output
+  // mal261: print out "Hello, Bro" to serial output
   Serial.println("Hello, Bro"); // Print the words to the Serial Monitor.
   
-  // TODO: Set up your delay in milliseconds
+  // mal261: set LED delay to 0.5 seconds
   digitalWrite(LED_PIN, HIGH); // LED On
   delay(500); // Speed in milliseconds
   digitalWrite(LED_PIN, LOW); // LED Off
