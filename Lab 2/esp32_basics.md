@@ -8,7 +8,7 @@ For this lab, I will be using the commandline and a text editor (Neovim) to crea
 
 The project files are available in the project directory. The output of the project can be seen in the video below. 
 
-![]("blinking_led.mp4")
+![]("https://github.com/mal261/F26-ECSE395-mal261/blob/main/Lab%202/blinking_led.mp4")
 
 ## reflection
 1. This assignment took me about an hour to complete
