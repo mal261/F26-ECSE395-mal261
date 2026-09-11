@@ -1,3 +1,4 @@
+/*
 #include <Arduino.h>
 
 // function prototype
@@ -29,3 +30,4 @@ int voltage(float analogvalue){
     //use the formula (Analog value*Reference voltage) / (Sensor Resolution) to calculate the output voltage
     return voltage;
 }
+*/
