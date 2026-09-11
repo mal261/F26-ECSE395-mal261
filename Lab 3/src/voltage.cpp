@@ -3,17 +3,23 @@
 // function prototype
 int voltage(float analogvalue);
 
-// Put your potentiometer pin assignment here
-const int sensorPin = 0;
+// (mal261) potentiometer output is passed to gpio26
+const int sensorPin = 26;
+const int maxSensorValue = 4096;
 
 void setup() {
     Serial.begin(115200);
 }
 
 void loop() {
-    // This is the line for printing in the serial
-    Serial.println(voltage(analogRead(sensorPin)));
-    delay(50); 
+	// (mal261) read potentiometer value
+	int sensorValue = analogRead(sensorPin);
+
+	// (mal261) calculate potentiometer voltage
+	float sensorVoltage = sensorValue*3.0f/maxSensorValue;
+
+    Serial.println(sensorVoltage);
+    delay(75); 
 }
 
 // function to calculate output voltage
