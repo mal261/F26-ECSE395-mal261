@@ -10,3 +10,5 @@ minutes for each day are located in the "Group Minutes" folder
 ## September 11, 2026
 * [2:05 pm] started lab 3
 * [3:35 pm] finished lab 3
+## September 12, 2026
+* [1:00 pm] project team: meetup, start on Functional and Technical Specifications, Needfinding Presentation

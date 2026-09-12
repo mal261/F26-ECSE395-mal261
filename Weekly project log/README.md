@@ -1,6 +1,8 @@
 # Overview
 This directory is a weekly log of my work. Its purpose is to document my progress on the semester project and enforce accountability on my part
 
+minutes for each group meeting are located in the "Group Minutes" folder. Group Minutes were writtern by teammate Andrew Manteau
+
 # Table of Content
 | Weeks | What we did |
 | :-- | :-: |
