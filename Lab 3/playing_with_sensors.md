@@ -9,7 +9,7 @@ For this lab, I will be using the PlatformIO commandline tools and a text editor
 
 The files "potentiometer.cpp" and "voltage.cpp" read from the potentiometer and print its values in different ways. The file "touch.cpp" uses a touch sensor and prints whether it's being touched or not.
 
-If you code from any mentioned files, make sure any other files are commented out. PlatformIO can only have one setup and one loop function.
+If you run code from any mentioned files, make sure any other files are commented out. PlatformIO can only have one setup and one loop function.
 
 ## Reflection
 1. This lab took me around an hour to complete
