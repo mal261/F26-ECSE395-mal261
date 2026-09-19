@@ -15,3 +15,4 @@ minutes for each day are located in the "Group Minutes" folder
 ## September 18, 2026
 * [12:30 pm] team meetup
     - solution brainstorming: group brainstorming
+* [2:05 pm] Start Lab 4
