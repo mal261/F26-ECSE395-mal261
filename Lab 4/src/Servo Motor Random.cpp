@@ -1,3 +1,4 @@
+/*
 #include <ESP32Servo.h>
 // Don't forget to include the library!!
 // From PlatfromIO library, search for ESP32 servo and add it to the project
@@ -25,14 +26,13 @@ void setup() {
 }
 
 void loop() {
-    //  --- SECTION 1: Make a Random Angle Between 0 to 180 ---
 	// (mal261) obtain a randon angle 
 	randomAngle = random(0, 180);
 
-    // ---SECTION 2: Map Pulse Width with Angle
-	// (mal261) map random angle to pulse width
+	// (mal261) map random angle to value within pulse width range
 	pulseWidth = map(randomAngle, 0, 180, minPulseWidth, maxPulseWidth);
     myServo.writeMicroseconds(pulseWidth); // writing pulse width to servo
 
-    delay(100); // change delay to your own preference
+    delay(100); // (mal261) delay for 0.1 seconds
 }
+*/

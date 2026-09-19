@@ -5,7 +5,7 @@
 
 // Define the servo and the pin it is connected to, what is your servo pin?
 Servo myServo;
-const int servoPin = A0;
+const int servoPin = A0; // (mal261) servo pin defined as pin A0
 
 // Define the minimum and maximum pulse widths for the servo
 const int minPulseWidth = 500; // 0.5 ms

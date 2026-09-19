@@ -1,8 +1,7 @@
 /*
 #include <Arduino.h>
 
-// TODO: Define your pins
-// Hint: Look at your wiring. Which pins did you use?
+// (mal261) motor values connected to pins A1 and A0
 const int MOTOR_B_1A = A1;
 const int MOTOR_B_1B = A0; 
 
@@ -14,50 +13,40 @@ void setup() {
   pinMode(MOTOR_B_1A, OUTPUT);
   pinMode(MOTOR_B_1B, OUTPUT); 
 
-  // Serial.println("_____");
+  Serial.println("begin motor");
 }
 
 void loop() {
+  // (mal261) rotate clockwise for 5 seconds
   Serial.println("clockwise");
   
-  // (mal261) rotate clockwise
   digitalWrite(MOTOR_B_1A, 255);
   digitalWrite(MOTOR_B_1B, 0);
   
-  // (mal261) rotate for 5 seconds
   delay(5000);
-
-  // (mal261) stop rotating
-  Serial.println("stop");
   
-  // (mal261) stop motor
+  // (mal261) stop motor for 2 seconds
+  Serial.println("stop");
+
   digitalWrite(MOTOR_B_1A, 0);
   digitalWrite(MOTOR_B_1B, 0);
 
-  // (mal261) stop for 2 seconds
   delay(2000);
-
-  Serial.println("counter-clockwise");
   
-  // (mal261) rotate counter-clockwise
+  // (mal261) rotate counter-clockwise for 5 seconds
+  Serial.println("counter-clockwise");
+
   digitalWrite(MOTOR_B_1A, 0);
   digitalWrite(MOTOR_B_1B, 255);
 
-  // (mal261) rotate for 5 seconds
   delay(5000);
-
-  // (mal261) stop rotating
-  Serial.println("stop");
   
-  // (mal261) stop motor
+  // (mal261) stop motor for 2 seconds
+  Serial.println("stop");
+
   digitalWrite(MOTOR_B_1A, 0);
   digitalWrite(MOTOR_B_1B, 0);
 
-  // (mal261) stop for 2 seconds
   delay(2000);
 }
-
-
-// Note:
-// - Please uncomment the necessary lines and fill in the blank to complete the assignment.
 */

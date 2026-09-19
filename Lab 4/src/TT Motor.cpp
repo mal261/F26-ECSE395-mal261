@@ -1,25 +1,26 @@
 /*
 #include <Arduino.h>
 
-// TODO: Define your pins
-// Hint: Look at your wiring. Which pins did you use?
-const int MOTOR_B_1A = A1; // Replace 0 with your pin number
-const int MOTOR_B_1B = A0; // Replace 0 with your pin number
+// (mal261) motor values connected to pins A1 and A0
+const int MOTOR_B_1A = A1;
+const int MOTOR_B_1B = A0;
 
 
 void setup() {
 
+  // (mal261) set pin mode for motor pins
   pinMode(MOTOR_B_1A, OUTPUT);
   pinMode(MOTOR_B_1B, OUTPUT);  
 
+  // (mal261) clockwise spin
   analogWrite(MOTOR_B_1A, 255);
   analogWrite(MOTOR_B_1B, 0);
 
-  delay(5000);
+  delay(1000);
 
+  // (mal261) motor is off
   analogWrite(MOTOR_B_1A, 0);  
   analogWrite(MOTOR_B_1B, 0);
-
 }
 
 void loop() {
