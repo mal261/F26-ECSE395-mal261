@@ -16,3 +16,8 @@ minutes for each day are located in the "Group Minutes" folder
 * [12:30 pm] team meetup
     - solution brainstorming: group brainstorming
 * [2:05 pm] Start Lab 4
+* [3:30 pm] Stop Lab 4, Finished in-class and post-class assignments
+
+## September 19, 2026
+* [4:30 pm] Continue Lab 4, start on extra credits
+* [5:00 pm] finished extra credit for TT Motor, submitted assignment
