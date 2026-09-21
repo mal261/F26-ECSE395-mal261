@@ -10,3 +10,4 @@ minutes for each group meeting are located in the "Group Minutes" folder. Group 
 | Week 2 | Meeting up with stakeholder, figuring out PlatformIO |
 | Week 3 | Write up Project Background and Needs Statement, lab 3 |
 | Week 4 | design Needfinding presentation, begin solution brainstorming | 
+| Week 5 |  | 
