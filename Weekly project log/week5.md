@@ -13,3 +13,9 @@ minutes for each day are located in the "Group Minutes" folder
 ## September 23, 2026
 * [3:15 pm] stakeholder call
     - brainstorming presentation: feedback in minutes folder
+
+## September 25, 2026
+* [12:30 pm] team meetup
+    - Concept Selection and Gantt Chart: finalized concept selection and started Gantt Chart
+* [2:05 pm] started lab 5
+* [4:25 pm] finished lab 5
