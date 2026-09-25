@@ -4,7 +4,7 @@ The goal of this meeting is to make progress on the Concept Selection assignment
 
 We started working on the final concept selection. After our meeting with Skye on Wednesday, we decided to adapt our compass idea into a wristwatch form factor. We also decided to integrate ideas from the tactile headband.
 
-Aryan and Martin worked on writing the justification for our concept, while Adewola used his notes from the stakeholder meeting to summarize Skye’s feedback. Martin also wrote a description of our final concept.
+Aryan worked on writing the justification for our concept, Martin wrote a description of our final concept, and Adewola used his notes from the stakeholder meeting to summarize Skye’s feedback.
 
 Together, we discussed revisions to our functional and technical specs and recorded them on the document.
 
