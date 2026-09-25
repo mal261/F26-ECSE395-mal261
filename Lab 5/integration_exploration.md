@@ -14,3 +14,10 @@ the commented source file for my code is in the "src" directory. The basic idea 
 A picture of the finished circuit can be seen below.
 
 ![Drum Machine Circuit](photos/DrumMachine.jpg)
+
+## Reflection
+1. This lab took me around 2 hours to complete.
+2. I would associate this lab with a high level of difficulty.
+3. The most difficult part was adjusting the sound of the "drum" to sound "good" and determining the state of the touch sensor. 
+4. I feel comfortable with the course content, despite my difficulties with this lab.
+5. No feedback.
