@@ -9,5 +9,6 @@ minutes for each group meeting are located in the "Group Minutes" folder. Group 
 | Week 1  | Figuring out Github and Markdown, initial team project meetups (week1.md) |
 | Week 2 | Meeting up with stakeholder, figuring out PlatformIO |
 | Week 3 | Write up Project Background and Needs Statement, lab 3 |
-| Week 4 | design Needfinding presentation, begin solution brainstorming | 
-| Week 5 |  | 
+| Week 4 | designing Needfinding presentation, begin solution brainstorming | 
+| Week 5 | designing Concept presentation for stakeholder, began Concept Selection & Gantt chart| 
+| Week 6 | finishing Concept Selection and Gantt Chart | 
