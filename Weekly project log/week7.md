@@ -1,5 +1,5 @@
 # Junior Engineering Design Seminar Log
-# Week 5
+# Week 7
 
 ## October 04, 2026
 * [8:00 pm] finished individual section for System Architecture & Prototype Plan

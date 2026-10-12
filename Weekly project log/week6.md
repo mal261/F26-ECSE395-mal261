@@ -1,5 +1,5 @@
 # Junior Engineering Design Seminar Log
-# Week 5
+# Week 6
 
 Minutes for September 28, 2026 were written by Martin Lopez (me)
 
