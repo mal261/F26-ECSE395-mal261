@@ -5,6 +5,6 @@
 * [10:00 am] worked on individual tasks for Verification and Validation
 
 ## October 15, 2026
-* [3:00 pm] after-class team meeting
+* [2:00 pm] team lab work 
     - finish(?) working on prototype 2
     - began implementing microphone subsystem
