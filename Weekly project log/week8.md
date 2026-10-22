@@ -7,4 +7,9 @@
 ## October 15, 2026
 * [2:00 pm] team lab work 
     - finish(?) working on prototype 2
-    - began implementing microphone subsystem
+    - begin implementing microphone subsystem
+
+## October 17, 2026
+* [3:00 pm] team lab work
+    - begin prototype 3
+    - begin Midterm Group Presentation Slides
