@@ -14,4 +14,4 @@ minutes for each group meeting are located in the "Group Minutes" folder. Group 
 | Week 6 | Finishing Concept Selection and Gantt Chart, began System Architecture and Prototype Plan | 
 | Week 7 | Finishing System Architecture and Prototype Plan, began work on prototypes |
 | Week 8 | Continuing work on prototypes, finished System Architecture and Prototype Plan|
-| Week 9 | Beginning work on Midterm Presentation |
+| Week 9 | Beginning work on Midterm Presentation, finishing Prototype 3 |
