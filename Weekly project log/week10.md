@@ -5,5 +5,9 @@
 * [2:05 pm] Midterm presentation
 
 ## October 28, 2026
-* [3:00 pm] team meeting
-    - Deesigning MVP
+* [2:00 pm] team lab work
+    - Designing MVP, improving codebase
+
+### October 30, 2026
+* [2:00 pm] team lab work 
+    - Continue designing MVP, code refactoring & system redesigning
