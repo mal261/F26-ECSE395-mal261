@@ -8,3 +8,7 @@
 ## November 11, 2026
 * [2:00 pm] in-class work
     - compiling & graphing validation test results
+
+## November 13, 2026
+* [2:00 pm] in-class work
+    - continue graphing, analysis of validation test results
