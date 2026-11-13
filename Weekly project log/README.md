@@ -17,3 +17,4 @@ minutes for each group meeting are located in the "Group Minutes" folder. Group 
 | Week 9 | Beginning work on Midterm Presentation, finishing Prototype 3 |
 | Week 10 | Beginning work on Minimally Viable Prototype (MVP), began designing Validation Tests |
 | Week 11| Finishing MVP, began conducting Validation Tests |
+| Week 11| Finishing Validation Tests, began data analysis |
