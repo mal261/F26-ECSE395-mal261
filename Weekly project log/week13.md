@@ -13,3 +13,8 @@
 
 * [3:15 pm] stakeholder meeting
     - showcasing MVP, validation testing results
+
+## November 20, 2026
+* [2:00 pm] team meeting
+    - continue final report
+    - start final presentation
